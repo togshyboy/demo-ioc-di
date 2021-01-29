@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/F+DezpZHoz8BU4KQUB6dwHvW08r9kqGweJgCj+O649RnT3QqYnH9gxas+EnhepgM6uzApHHumeifQo4QRymQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\linhtuan\\source\\repos\\IoC-Demostration\\IoC-Demostration\\IoC-Demostration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linhtuan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
